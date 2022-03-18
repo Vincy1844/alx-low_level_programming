@@ -1,2 +1,2 @@
 #!/bin/bash
- armcc 
+gcc $CFILE -o c -E
